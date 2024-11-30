@@ -32,5 +32,13 @@ This project demonstrates how to use **Azure Blob Storage** for scalable file st
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/azure-blob-storage-demo.git
+git https://github.com/50sphase/azure-blobstorage.git
 cd azure-blob-storage-demo
+
+## Screenshots
+
+### Upload File
+![Upload File Demo](images/blobscreenshot.png)
+
+### List Files
+![List Files in Blob Container](images/list-files-demo.png)
